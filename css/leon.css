@@ -197,3 +197,19 @@ body {
   font-size: 17px;
 }
 /* End Features */
+/* Start Services */
+.services {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.services .services-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 100px;
+}
+.services .services-content .serv {
+  display: flex;
+  margin-bottom: 40px;
+}
+/* End Services */
