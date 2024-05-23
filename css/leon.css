@@ -218,4 +218,19 @@ body {
     text-align: center;
   }
 }
+.services .services-content .serv i {
+  color: var(--main-color);
+  flex-basis: 60px;
+}
+.services .services-content .serv .text {
+  flex: 1;
+}
+.services .services-content .serv .text h3 {
+  margin: 0 0 20px;
+}
+.services .services-content .serv .text p {
+  color: #444;
+  font-weight: 300;
+  line-height: 1.8;
+}
 /* End Services */
