@@ -1,6 +1,9 @@
 # leon-responsive-design
 A responsive and modern web project built using the Leon Web Template.
 
+## About the Leon Web Template
+The Leon Web Template is a versatile and stylish template designed for creating modern and responsive websites. It features a clean and minimalist design, making it suitable for a wide range of projects.
+
 ## License
 This project is licensed under the MIT License. Note that while my modifications are under the MIT License, the original design elements were sourced from Graphberry and their usage terms can be found [here](https://www.graphberry.com/).
 
